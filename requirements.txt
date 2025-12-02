@@ -1,0 +1,13 @@
+# Library utama untuk berinteraksi dengan Google Gemini API melalui Agent Developer Kit (ADK)
+google-adk
+
+# Google GenAI SDK (digunakan secara implisit oleh google-adk)
+google-genai
+
+# Untuk memuat environment variable dari file .env atau .envrc
+python-dotenv
+
+# Untuk membaca/menulis file konfigurasi TOML (jika Anda menggunakan file config.toml)
+# Anda bisa memilih salah satu:
+# toml
+tomli
